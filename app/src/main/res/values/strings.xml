@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Appointments</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="edit_button">Edit</string>
+    <string name="save_button">Save</string>
+    <string name="appointment_button">Make an appointment</string>
+    <string name="reason_edit">Please enter the reason of appointment</string>
+    <string name="available_locations">Available locations:</string>
+    <string name="appointments_title">Appointments:</string>
+    <string name="available_doctors">Appointments doctors:</string>
+    <string name="user_info_title">User information:</string>
+    <string name="successfully_updated_appointment">Your appointment is successfully updated</string>
+    <string name="canceled_appointment">Your appointment is successfully canceled</string>
+    <string name="enter_appointment_reason">Please enter the reason of appointment</string>
+    <string name="location_is">Your location is: </string>
+    <string name="reason_is">Reason of visit is: </string>
+    <string name="appointment_confirmed">Your appointment is confirmed</string>
+    <string name="user_info_updated">User information is updated</string>
+    <string name="user_info_update_failed">Something went wrong. Cannot update user info.</string>
+</resources>
